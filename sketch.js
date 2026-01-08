@@ -4,9 +4,9 @@ function setup() {
 }
 
 function draw() {
-  background(200, 0, 200);
+  background(0, 200, 200);
 
-  textSize(32);
+  textSize(25);
   fill(0);
-  text("hi", width / 2, height / 2);
+  text("Is this seat taken?", width / 2, height / 2);
 }
