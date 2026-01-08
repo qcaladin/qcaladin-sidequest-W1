@@ -8,5 +8,5 @@ function draw() {
 
   textSize(25);
   fill(0);
-  text("Is this seat taken?", width / 2, height / 2);
+  text("Is this seat taken??", width / 2, height / 2);
 }
