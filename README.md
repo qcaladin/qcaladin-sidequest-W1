@@ -1,5 +1,23 @@
-## Side Quest Week 1: Sketch
+## Project Title
+
+Side Quest Week 1: Sketch
 
 ---
 
-## Queene Calading
+## Members
+
+Queene Calading | 21094601
+
+---
+
+## Description
+
+Simple test sketch with the words "Is this seat taken??" for our game played today in class
+
+---
+
+## Interaction
+
+No interactions available
+
+---
